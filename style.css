@@ -3,7 +3,7 @@
 :root {
   --tx-brand: #fb8d19;
   --tx-brand-rgb: 248, 54, 145;
-  --tx-white: #333333
+  --tx-dark: #333333 
   --tx-body: #989898
   --f-main: "raleway", sans-serif;
   --transition: all .6s cubic-bezier(.165, .84, .44,);
@@ -19,7 +19,7 @@ body {
 h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6 
 {
     font-weight: 700;
-    color: var(#000000);
+    color: var(--tx-dark);
     font-family: var(--f-main);
 }
 
