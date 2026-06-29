@@ -127,9 +127,10 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6
     text-decoration: underline;
 }
 
-h1, h2, h3, h4, h5, p, span {
+p, span, div, h1, h2, h3, h4, h5 {
     color: #000000 !important;
-}  
+    text-shadow: none !important;
+}
 
 body {
     background-color: #ffffff !important;
