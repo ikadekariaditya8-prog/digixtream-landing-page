@@ -3,7 +3,7 @@
 :root {
   --tx-brand: #fb8d19;
   --tx-brand-rgb: 248, 54, 145;
-  --tx-white: #FFFFFF
+  --tx-white: #333333
   --tx-body: #989898
   --f-main: "raleway", sans-serif;
   --transition: all .6s cubic-bezier(.165, .84, .44,);
